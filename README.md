@@ -32,7 +32,7 @@ We can use regular html for images
 
 <img src="https://i.ytimg.com/vi/kcOqug5_M1I/maxresdefault.jpg" width="200">
 
-We can also <span style="text-decoration: underline;"> underline </span> text
+We can also <ins> underline </ins> text
 
 ###Code highlighting
 ```java
