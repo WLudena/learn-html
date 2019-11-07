@@ -31,3 +31,6 @@ This is a `highlight` for individual words / blocks of text
 We can use regular html for images
 
 <img src="https://i.ytimg.com/vi/kcOqug5_M1I/maxresdefault.jpg" width="200">
+
+We can also 
+<u> underline </u> text
