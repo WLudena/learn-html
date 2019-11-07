@@ -13,3 +13,17 @@
 #Connecting code to live Netlify repo
 
 Sign up with Netlify.com	
+
+#Markdown Syntax
+
+#Main
+##Sub Header
+### Sub-Sub Header
+
+*italics*
+**bold**
+***bold italic***
+
+This is a `highlight` for individual words / blocks of text
+
+> this can be used to quote a whole paragraph ('blockquote')
