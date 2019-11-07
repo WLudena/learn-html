@@ -32,4 +32,12 @@ We can use regular html for images
 
 <img src="https://i.ytimg.com/vi/kcOqug5_M1I/maxresdefault.jpg" width="200">
 
-We can also <u>underline</u> text
+We can also <span style="text-decoration: underline;"> underline </span> text
+
+###Code highlighting
+```
+int x = 1;
+```
+
+	This is tabbed in once
+		It can also be used for code
