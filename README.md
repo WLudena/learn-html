@@ -42,32 +42,32 @@ int x = 1;
 	This is tabbed in once
 		It can also be used for code
 
-	```hmtl
-	<!DOCTYPE html>
-	<html>
-		<head>
-		<!--metadata in head-->
-		<title>My page</title>
-		<style>
-			/* CSS goes here*/
-		</style>
-	</head>
-	<body>
-		<nav>
-			
-		</nav>
-		<h1>Hello World Web Page</h1>
-		<h2>Test Test</h2>
-	
-		<p>Sample web page</p>
+```hmtl
+<!DOCTYPE html>
+<html>
+	<head>
+	<!--metadata in head-->
+	<title>My page</title>
+	<style>
+		/* CSS goes here*/
+	</style>
+</head>
+<body>
+	<nav>
+		
+	</nav>
+	<h1>Hello World Web Page</h1>
+	<h2>Test Test</h2>
 
-		<button onclick="runThisSometimes()">Run this sometimes</button>
-	
-		<script>
-		function runThisSometimes(){
-			alert("Sometimes");
-		}
-		</script>
-	</body>
-	</html>
-	```
+	<p>Sample web page</p>
+
+	<button onclick="runThisSometimes()">Run this sometimes</button>
+
+	<script>
+	function runThisSometimes(){
+		alert("Sometimes");
+	}
+	</script>
+</body>
+</html>
+```
