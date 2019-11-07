@@ -30,4 +30,4 @@ This is a `highlight` for individual words / blocks of text
 
 We can use regular html for images
 
-<img src="https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_cat_names.png" width="150">
+<img src="https://i.ytimg.com/vi/kcOqug5_M1I/maxresdefault.jpg" width="200">
