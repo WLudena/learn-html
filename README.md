@@ -27,3 +27,7 @@ Sign up with Netlify.com
 This is a `highlight` for individual words / blocks of text
 
 > this can be used to quote a whole paragraph ('blockquote')
+
+We can use regular html for images
+
+<img src="https://www.sciencenewsforstudents.org/sites/default/files/scald-image/860_cat_names.png" width="150">
